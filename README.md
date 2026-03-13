@@ -1,4 +1,4 @@
-# Cálculo Reservatórios - ADASA
+# Cálculo Reservatórios
 
 # Simulador de Balanço de Volume em Barragem (Node.js)
 
