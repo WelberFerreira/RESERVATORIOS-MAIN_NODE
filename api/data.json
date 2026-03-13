@@ -1,0 +1,29 @@
+{
+  "dam_data": {
+    "Max_Volume": 173000,
+    "Min_Volume": 0,
+    "Tot_Area": 40520.46,
+    "M_Infiltration": 0.1,
+    "Q_Reg": 0.034,
+    "Min_Vol_Observed": 0,
+    "Q_Cap": 104
+  },
+  "operacao": {
+    "anos": 1,
+    "Meses": [
+      "Janeiro","Fevereiro","Março","Abril","Maio","Junho",
+      "Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"
+    ],
+    "Qmmm": [
+      0.13299, 0.16475, 0.16739, 0.1532, 0.10796, 0.07531,
+      0.05364, 0.02711, 0.0073, 0.00284, 0.03111, 0.07213
+    ],
+    "Dias": [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31],
+    "Evaporacao": [
+      130.06, 141.88, 130.65, 115.87,
+      104.00, 96.00, 116.02, 159.60,
+      169.76, 204.80, 110.62, 120.58
+    ],
+    "tempDia": [24, 24, 24, 24, 24, 0, 0, 0, 0, 24, 24, 24]
+  }
+}
